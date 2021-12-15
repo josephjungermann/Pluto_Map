@@ -1,0 +1,14 @@
+/*********************************************************************
+ Loading import to ensure all browsers have base style
+*********************************************************************/
+@import url('https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css');
+
+.container {
+    margin: 0 auto;
+    padding: 15px;
+    max-width: 900px;
+}
+
+#map { 
+    height: 500px; 
+}
